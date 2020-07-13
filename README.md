@@ -2,7 +2,7 @@
 
 <p align="center"><samp>I am a Java Web developer and technology is my passion.</samp> ⚡</p>
 
-<p align="center"><samp>Here I can share of my portfolio with all projects I have made.</samp></p>
+<p align="center"><samp>Here I can share my portfolio with all projects I have made.</samp></p>
 
 <p align="center"><samp>Feel free if you want to connect with me on 💬 <a target="_blank" href="https://www.linkedin.com/in/allangs/">Linkedin</a> or send a message <a href="mailto:allan11991@hotmail.com">e-mail</a>.</samp>😄</p> 
 
