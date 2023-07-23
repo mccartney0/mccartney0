@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h1> 
 
-<p align="center"><samp>I am a Java Web developer and technology is my passion.</samp> ⚡</p>
+<p align="center"><samp>I am a Frontend developer and technology is my passion.</samp> ⚡</p>
 
 <p align="center"><samp>Here I can share my portfolio with all projects I have made.</samp></p>
 
